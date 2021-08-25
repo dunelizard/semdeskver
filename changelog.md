@@ -1,3 +1,9 @@
+## 10.1.3
+added "UNIX" textbook below "Algorithms" textbook to further optimize screen height
+
+## 10.1.2
+added "Algorithms" textbook below smol monitor to improve screen height
+
 ## 10.1.1
 main desk reconnected
 
