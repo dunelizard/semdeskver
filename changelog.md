@@ -1,3 +1,6 @@
+## 10.1.4
+threaded additional charging cable through brick
+
 ## 10.1.3
 added "UNIX" textbook below "Algorithms" textbook to further optimize screen height
 
