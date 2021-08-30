@@ -1,3 +1,9 @@
+## 10.2.1
+11epsilon: Ethernet
+
+## 10.2.0
+connected 11epsilon
+
 ## 10.1.4
 threaded additional charging cable through brick
 
