@@ -1,3 +1,6 @@
+## 10.2.4
+reconfigured charging cables on dev desk
+
 ## 10.2.3
 attached synthesizer power cables to side of main desk
 
@@ -32,7 +35,7 @@ threaded keyboard cable, HDMI & Ethernet through new brick
 added brick; reconfigured bricks
 
 ## 10.0.5
-added laptop to dev desk
+added 11delta to dev desk
 
 ## 10.0.4
 threaded charging cables through brick holes
