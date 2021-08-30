@@ -1,2 +1,2 @@
 # semdeskver
-semantic versioning for my desk
+semantic desk versioning
