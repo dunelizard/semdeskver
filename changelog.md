@@ -1,3 +1,6 @@
+## 10.2.2
+rewiring various power cables; removed unnecessary extension cord
+
 ## 10.2.1
 11epsilon: Ethernet
 
