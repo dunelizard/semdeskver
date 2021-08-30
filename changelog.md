@@ -1,3 +1,6 @@
+## 10.2.3
+attached synthesizer power cables to side of main desk
+
 ## 10.2.2
 rewiring various power cables; removed unnecessary extension cord
 
