@@ -1,3 +1,6 @@
+## 10.2.5
+added mouse to dev desk
+
 ## 10.2.4
 reconfigured charging cables on dev desk
 
