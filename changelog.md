@@ -1,3 +1,6 @@
+## 10.2.6
+optimized dev desk charging cable configuration; made small changes to other dev desk cables
+
 ## 10.2.5
 added mouse to dev desk
 
