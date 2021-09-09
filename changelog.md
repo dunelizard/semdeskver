@@ -1,3 +1,6 @@
+## 10.2.7
+improved airflow for 11epsilon
+
 ## 10.2.6
 optimized dev desk charging cable configuration; made small changes to other dev desk cables
 
