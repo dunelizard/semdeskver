@@ -1,3 +1,6 @@
+## 10.3.1
+optimized speaker position: moved on top of foam blocks for better ergonomics & acoustics
+
 ## 10.3.0
 connected 11gamma
 
