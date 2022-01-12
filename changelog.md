@@ -1,3 +1,6 @@
+## 10.3.2
+moved sustain pedal under main desk
+
 ## 10.3.1
 optimized speaker position: moved on top of foam blocks for better ergonomics & acoustics
 
