@@ -1,3 +1,6 @@
+## 10.2.8
+moved 11epsilon to top of dev desk
+
 ## 10.2.7
 improved airflow for 11epsilon
 
