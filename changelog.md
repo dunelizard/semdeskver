@@ -1,3 +1,6 @@
+## 10.3.3
+cable refactoring: swapped audio interface cable with midi keyboard cable
+
 ## 10.3.2
 moved sustain pedal under main desk
 
