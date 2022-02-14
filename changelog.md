@@ -1,3 +1,6 @@
+## 10.4.1
+repositioned 11zeta to improve back panel accessibility
+
 ## 10.4.0
 connected 11zeta to dev (side) desk
 
