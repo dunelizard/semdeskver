@@ -1,3 +1,6 @@
+## 10.3.4
+rolled back cable refactoring
+
 ## 10.3.3
 cable refactoring: swapped audio interface cable with midi keyboard cable
 
