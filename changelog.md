@@ -1,3 +1,6 @@
+## 10.4.0
+connected 11zeta to dev (side) desk
+
 ## 10.3.4
 rolled back cable refactoring
 
