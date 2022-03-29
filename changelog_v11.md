@@ -1,3 +1,6 @@
+## 11.4.4
+cleanup: mic cable
+
 ## 11.4.3
 fixed audio interface harsh noise by switching to direct USB
 
