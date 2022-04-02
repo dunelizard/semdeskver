@@ -1,3 +1,6 @@
+## 11.4.5
+switched out HDMI cable
+
 ## 11.4.4
 cleanup: mic cable
 
