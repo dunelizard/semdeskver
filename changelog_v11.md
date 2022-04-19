@@ -1,3 +1,12 @@
+## 11.5.2
+move qwertz keyboard
+
+## 11.5.1
+cleanup: remove charging cable and ethernet cable (formerly used for 11delta)
+
+## 11.5.0
+cleanup: remove 11delta from setup entirely
+
 ## 11.4.6
 refactoring MIDI keyboard cable
 
